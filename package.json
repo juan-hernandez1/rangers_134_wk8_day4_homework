@@ -1,0 +1,29 @@
+{
+  "name": "wk8d4-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-hernandez1/rangers_134_wk8_day4_homework.git"
+  },
+  "author": "J. Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juan-hernandez1/rangers_134_wk8_day4_homework/issues"
+  },
+  "homepage": "https://github.com/juan-hernandez1/rangers_134_wk8_day4_homework#readme",
+  "dependencies": {
+    "@types/uuid": "^9.0.7",
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
